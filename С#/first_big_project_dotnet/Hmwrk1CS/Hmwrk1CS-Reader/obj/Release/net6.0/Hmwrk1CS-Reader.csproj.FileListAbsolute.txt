@@ -1,0 +1,15 @@
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\bin\Release\net6.0\Hmwrk1CS-Reader.exe
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\bin\Release\net6.0\Hmwrk1CS-Reader.deps.json
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\bin\Release\net6.0\Hmwrk1CS-Reader.runtimeconfig.json
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\bin\Release\net6.0\Hmwrk1CS-Reader.dll
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\bin\Release\net6.0\Hmwrk1CS-Reader.pdb
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.csproj.AssemblyReference.cache
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.AssemblyInfoInputs.cache
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.AssemblyInfo.cs
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.csproj.CoreCompileInputs.cache
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.dll
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\refint\Hmwrk1CS-Reader.dll
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.pdb
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\Hmwrk1CS-Reader.genruntimeconfig.cache
+C:\Users\hlebysq\Downloads\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Hmwrk1CS-Reader\obj\Release\net6.0\ref\Hmwrk1CS-Reader.dll

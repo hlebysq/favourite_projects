@@ -1,0 +1,12 @@
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\bin\Debug\net6.0\Flex.deps.json
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\bin\Debug\net6.0\Flex.dll
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\bin\Debug\net6.0\Flex.pdb
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.dll
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\refint\Flex.dll
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\Flex.pdb
+C:\Users\Максим\Downloads\Hmwrk1CS_Zolotikhin_13_2dot1\Hmwrk1CS_Zolotukhin_13var_2dot0\Hmwrk1CS_Zolotukhin_13Var\Hmwrk1CS\Flex\obj\Debug\net6.0\ref\Flex.dll

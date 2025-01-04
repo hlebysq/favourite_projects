@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hmwrk1CS-Reader/1.0.0": {
+        "runtime": {
+          "Hmwrk1CS-Reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hmwrk1CS-Reader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
