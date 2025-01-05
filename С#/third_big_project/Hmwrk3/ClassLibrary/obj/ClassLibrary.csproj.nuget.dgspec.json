@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Максим\\Downloads\\Zolotukhin_var4_1dot1\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Users\\Максим\\favourite_projects\\С#\\third_big_project\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Максим\\Downloads\\Zolotukhin_var4_1dot1\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\Максим\\favourite_projects\\С#\\third_big_project\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Максим\\Downloads\\Zolotukhin_var4_1dot1\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Максим\\favourite_projects\\С#\\third_big_project\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\Максим\\Downloads\\Zolotukhin_var4_1dot1\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Максим\\favourite_projects\\С#\\third_big_project\\Hmwrk3\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Максим\\Downloads\\Zolotukhin_var4_1dot1\\Hmwrk3\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Максим\\favourite_projects\\С#\\third_big_project\\Hmwrk3\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config"
