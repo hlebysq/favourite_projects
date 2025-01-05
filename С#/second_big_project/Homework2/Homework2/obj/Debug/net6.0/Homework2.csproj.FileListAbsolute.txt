@@ -1,0 +1,36 @@
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.exe
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.deps.json
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.dll
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.pdb
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\CustomClasses.dll
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\bin\Debug\net6.0\CustomClasses.pdb
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.CopyComplete
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.dll
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.pdb
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+C:\Users\hlebysq\RiderProjects\Homework2\Homework2\obj\Debug\net6.0\ref\Homework2.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\Homework2.exe
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\Homework2.deps.json
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\Homework2.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\Homework2.pdb
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\CustomClasses.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\bin\Debug\net6.0\CustomClasses.pdb
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.CopyComplete
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.pdb
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\Homework2\obj\Debug\net6.0\ref\Homework2.dll

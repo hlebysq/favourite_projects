@@ -1,0 +1,24 @@
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\bin\Debug\net6.0\CustomClasses.deps.json
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\bin\Debug\net6.0\CustomClasses.dll
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\bin\Debug\net6.0\CustomClasses.pdb
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.csproj.AssemblyReference.cache
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.AssemblyInfoInputs.cache
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.AssemblyInfo.cs
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.csproj.CoreCompileInputs.cache
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.dll
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\refint\CustomClasses.dll
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.pdb
+C:\Users\hlebysq\RiderProjects\Homework2\CustomClasses\obj\Debug\net6.0\ref\CustomClasses.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\bin\Debug\net6.0\CustomClasses.deps.json
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\bin\Debug\net6.0\CustomClasses.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\bin\Debug\net6.0\CustomClasses.pdb
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.csproj.AssemblyReference.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.AssemblyInfoInputs.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.AssemblyInfo.cs
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.csproj.CoreCompileInputs.cache
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\refint\CustomClasses.dll
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\CustomClasses.pdb
+C:\Users\hlebysq\Downloads\zolotukhin_9_var (1)\Homework2\CustomClasses\obj\Debug\net6.0\ref\CustomClasses.dll
