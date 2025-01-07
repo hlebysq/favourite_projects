@@ -1,0 +1,36 @@
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\Program.exe
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\Program.dll
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\CustomClasses.dll
+C:\Users\Gleb\source\repos\Hmwrk3\Program\bin\Debug\net6.0\CustomClasses.pdb
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.dll
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\Gleb\source\repos\Hmwrk3\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\Program.exe
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\Program.dll
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\CustomClasses.dll
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\bin\Debug\net6.0\CustomClasses.pdb
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.dll
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\Максим\Downloads\var1_Zolotukhin (1)\Hmwrk3\Program\obj\Debug\net6.0\ref\Program.dll
