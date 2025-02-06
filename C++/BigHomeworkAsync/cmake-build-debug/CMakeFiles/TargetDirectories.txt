@@ -1,0 +1,3 @@
+C:/Users/Gleb/CLionProjects/idz4/cmake-build-debug/CMakeFiles/idz4.dir
+C:/Users/Gleb/CLionProjects/idz4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gleb/CLionProjects/idz4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
